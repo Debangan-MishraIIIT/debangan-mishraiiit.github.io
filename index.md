@@ -24,10 +24,10 @@ I’m an undergraduate researcher working on how to make AI systems and models s
   <a href="https://scholar.google.com/citations?user=PnRWab4AAAAJ&hl=en" title="Google Scholar">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/debangan-mishra-1a1a34209/" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER/" title="Twitter">
+  <a href="https://x.com/DebanganM10375/" title="Twitter">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" alt="Twitter" />
   </a>
   <a href="mailto:debangan.mishra40@gmail.com" title="Gmail">
