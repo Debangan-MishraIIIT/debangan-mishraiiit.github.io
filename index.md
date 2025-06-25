@@ -2,22 +2,43 @@
 layout: default
 ---
 
+<style>
+.social-icons a {
+  margin: 0 10px;
+  display: inline-block;
+}
+.social-icons img {
+  width: 28px;
+  height: 28px;
+  vertical-align: middle;
+}
+</style>
+
 <!-- your photo -->
 <p align="center">
-  <img src="assets/img/avatar.jpg" alt="Your Name" width="200" style="border-radius:50%;">
+  <img src="assets/img/face.jpeg" alt="Debangan Mishra" width="200" style="border-radius:50%;">
 </p>
 
-## Hi, I'm Your Name 🎓
+## Hi, I'm Debangan 🎓
 
 A brief intro about your background, current role, research interests, etc.
 
 ### 🔗 Links
-<p>
-  <a href="{{ site.google_scholar }}" title="Google Scholar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"></a>
-  <a href="{{ site.linkedin }}" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"></a>
-  <a href="{{ site.twitter }}" title="Twitter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24"></a>
-  <a href="{{ site.semantic_scholar }}" title="Semantic Scholar"><img src="https://raw.githubusercontent.com/semantic-scholar/art/master/s2-logo/s2-logo-dark-background.svg" width="24"></a>
-</p>
+<div class="social-icons" align="center">
+  <a href="https://scholar.google.com/citations?user=PnRWab4AAAAJ&hl=en" title="Google Scholar">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER/" title="Twitter">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" alt="Twitter" />
+  </a>
+  <a href="mailto:debangan.mishra40@gmail.com" title="Gmail">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" />
+  </a>
+</div>
+
 
 ### 📚 Publications
 <ul>
