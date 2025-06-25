@@ -14,13 +14,6 @@ layout: default
 }
 </style>
 
-
-<div style="text-align:left; max-width:400px; margin:0;">
-  <img src="assets/img/face.jpeg" alt="Debangan Mishra" width="200" style="border-radius:50%; display:block; margin-bottom:10px;">
-  <h1 style="margin:0;">{{ site.title }}</h1>
-  <p style="margin-top:0;">{{ site.description }}</p>
-</div>
-
 ## Hi, I'm Debangan 🎓
 
 I’m an undergraduate researcher working on how to make AI systems and models safer for all. My interests lie in interpretability, explainability, and machine unlearning. I am also fascinated by multimodal models, NLP and geometric deep learning. I enjoy building principled approaches to make AI systems more transparent, secure, and aligned with human intent. Cheers to a safer and more responsible future of artificial intelligence 🥂.
