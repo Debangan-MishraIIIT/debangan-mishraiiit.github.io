@@ -6,6 +6,7 @@ layout: default
 .social-icons a {
   margin: 0 10px;
   display: inline-block;
+  margin-bottom: 18px;
 }
 .social-icons img {
   width: 28px;
